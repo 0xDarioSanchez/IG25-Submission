@@ -1,0 +1,117 @@
+##  Project Title
+
+Lancer Protocol - Private Voting System
+
+## Team
+
+Dario Sanchez
+0xDarioSanchez
+0xDarioSanchez
+
+Dario Honduras
+Cooldev1337
+web3path
+
+Cecilia Scarabello
+
+
+## Project Description
+
+Lancer Protocol is a decentralized dispute-resolution layer for Web3 marketplaces.
+It enables fair, transparent, and censorship-resistant arbitration between freelancers and clients through a network of independent on-chain judges.
+Judges are economically incentivized via a reputation and reward mechanism based on game theory, ensuring that truthful voting is the most rational behavior.
+
+However, full transparency on-chain introduces two risks: bribery of visible judges and biased voting due to observable majority trends.
+Lancer solves these using commit–reveal and zero-knowledge (ZK) privacy layers — keeping votes secret until finalized and preventing manipulation.
+
+## Tech Stack
+
+Smart Contracts: Solidity, Rust (via Arbitrum Stylus)
+
+Blockchain Infrastructure: Ethereum Sepolia testnet, AltLayer Rollup (RaaS), ZKM zkVM verifier
+
+ZK Tools: Circom / Noir for proof circuits (vote validity + identity protection)
+
+Front-End: Next.js + TypeScript + Tailwind
+
+Backend & APIs: Node.js, Wagmi, Ethers.js
+
+Storage: IPFS / Web3.Storage for dispute evidence
+
+Wallet Integration: MetaMask, WalletConnect
+
+DevOps: Foundry, Vercel for web deployment
+
+Optional Integrations: World ID or Sismo for ZK judge identity
+
+## Objectives
+
+Functional MVP:
+
+Enable on-chain dispute creation, commit–reveal voting, and escrow release logic.
+Deploy on an AltLayer rollup to demonstrate scalability and low fees.
+
+Privacy Prototype:
+
+Integrate a ZKM zkVM proof verifier to validate vote integrity without revealing judge choices.
+Build a small Noir circuit for vote validity proof.
+
+Performance Optimization:
+
+Port at least one module (e.g., reputation or dispute scoring) to Stylus (Arbitrum) for WASM-based execution and gas comparison.
+
+UX & Frontend:
+
+Develop a simple dashboard for judges and disputing parties.
+Show ZK-proof verification results and dispute status in real-time.
+
+## Weekly Progress
+
+### Week 1 (ends Oct 31)
+**Goals:**
+
+Finalize architecture design (smart contracts + ZK integration flow).
+
+Deploy on local testnet contracts to use as escrow and voting example.
+
+Initialize Stylus development environment (Rust SDK + test contract).
+
+Research ZKM SDK and prepare circuit outline for vote proof.
+
+**Progress Summary:**  
+
+
+### Week 2 (ends Nov 7)
+**Goals:**  
+ 
+**Progress Summary:**  
+
+
+### 🗓️ Week 3 (ends Nov 14)
+**Goals:**  
+
+**Progress Summary:**  
+
+
+
+## Final Wrap-Up
+_After Week 3, summarize your final state: deliverables, repo links, and outcomes._
+
+- **Main Repository Link:**  
+- **Demo / Deployment Link (if any):**  
+- **Slides / Presentation (if any):**
+
+
+
+## 🧾 Learnings
+_What did you learn or improve during ARG25?_
+
+
+
+## Next Steps
+_If you plan to continue development beyond ARG25, what’s next?_
+
+
+
+_This template is part of the [ARG25 Projects Repository](https://github.com/invisible-garden/arg25-projects)._  
+_Update this file weekly by committing and pushing to your fork, then raising a PR at the end of each week._
