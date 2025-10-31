@@ -5,14 +5,16 @@ Lancer Protocol - Private Voting System
 ## Team
 
 Dario Sanchez
-0xDarioSanchez
-0xDarioSanchez
+Github: 0xDarioSanchez
+Devfolio: 0xDarioSanchez
 
 Dario Honduras
-Cooldev1337
-web3path
+Github: Cooldev1337
+Devfolio: web3path
 
 Cecilia Scarabello
+Github: chinitasca
+Devfolio: CeciSca 
 
 
 ## Project Description
