@@ -8,7 +8,7 @@ Dario Sanchez
 Github: 0xDarioSanchez
 Devfolio: 0xDarioSanchez
 
-Dario Honduras
+Dario Amaya
 Github: Cooldev1337
 Devfolio: web3path
 
@@ -85,9 +85,22 @@ Research ZKM SDK and prepare circuit outline for vote proof.
 
 ### Week 2 (ends Nov 7)
 **Goals:**  
- 
-**Progress Summary:**  
+- Implement a basic marketplace and voting contract in Solidity to enable fast testing.  
+- Research potential approaches to integrate privacy into the voting process.  
+- Begin developing the final project implementation using Arbitrum Stylus.
 
+**Progress Summary:**  
+- Completed initial versions of the marketplace and voting contracts in Solidity for rapid testing and validation.  
+- Investigated multiple privacy-preserving mechanisms for the voting system, including commit–reveal, threshold encryption, and ZK-based alternatives.  
+- Started building the Arbitrum Stylus version of the project to prepare for the final deployment phase.
+
+### Solidity Code:
+
+https://github.com/0xDarioSanchez/IG-PoC
+
+### Stylus Code:
+
+https://github.com/0xDarioSanchez/IG25-Project
 
 ### 🗓️ Week 3 (ends Nov 14)
 **Goals:**  
