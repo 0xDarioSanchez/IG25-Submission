@@ -1,3 +1,5 @@
+IWANTTODEMO
+
 ##  Project Title
 
 Lancer Protocol - Private Voting System
@@ -102,12 +104,25 @@ https://github.com/0xDarioSanchez/IG-PoC
 
 https://github.com/0xDarioSanchez/IG25-Project
 
-### 🗓️ Week 3 (ends Nov 14)
-**Goals:**  
+🗓️ Week 3 (ends Nov 14)
 
-**Progress Summary:**  
+**Goals:
+**
+Migrate the voting system from Solidity to Stylus.
 
+Finalize and test the Stylus contracts.
 
+Implement the single-transaction commit–reveal mechanism for basic privacy.
+
+Run end-to-end tests and analyze results to extract technical conclusions.
+
+**Progress Summary:
+**
+Completed the full Stylus implementation of the protocol logic.
+
+Wrote deployment and testing scripts.
+
+Commit–reveal integration and testing still pending.
 
 ## Final Wrap-Up
 _After Week 3, summarize your final state: deliverables, repo links, and outcomes._
