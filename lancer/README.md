@@ -1,7 +1,7 @@
 
 ##  Project Title
 
-Lancer Protocol - Private Voting System
+Lancer Protocol - Private Voting System based on game theory
 
 ## Team
 
