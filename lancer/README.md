@@ -90,22 +90,21 @@ Research ZKM SDK and prepare circuit outline for vote proof.
 - Investigated multiple privacy-preserving mechanisms for the voting system, including commit–reveal, threshold encryption, and ZK-based alternatives.  
 - Started building the Arbitrum Stylus version of the project to prepare for the final deployment phase.
 
-### Solidity Code:
+### Week 2 Code:
 
 https://github.com/0xDarioSanchez/IG-PoC
-
-### Stylus Code:
-
 https://github.com/0xDarioSanchez/IG25-Project
 
 ## 🗓️ Week 3 (ends Nov 14)
 
-#### Main Repositories Link:
+### Main Repositories Link:
 
-Link to main repo with marketplace + protocol integration:
+#### Link to main repo with marketplace + protocol integration:
+
 https://github.com/0xDarioSanchez/IG25-Project
 
-Link to minimal version for facilitate testing:
+#### Link to minimal version for facilitate testing:
+
 https://github.com/0xDarioSanchez/IG25-Protocol
 
 #### Slides / Presentation:
