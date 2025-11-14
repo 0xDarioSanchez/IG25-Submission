@@ -101,11 +101,7 @@ https://github.com/0xDarioSanchez/IG25-Project
 
 #### Link to main repo with marketplace + protocol integration:
 
-https://github.com/0xDarioSanchez/IG25-Project
-
-#### Link to minimal version for facilitate testing:
-
-https://github.com/0xDarioSanchez/IG25-Protocol
+https://github.com/0xDarioSanchez/IG25-Lancer
 
 #### Slides / Presentation:
 [[Open link]
